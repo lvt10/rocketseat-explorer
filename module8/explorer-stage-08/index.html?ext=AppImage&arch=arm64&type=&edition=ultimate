@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+  <!-- Common metas -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel=preload href="https://fonts.googleapis.com/css?family=Rubik:400,700&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap" rel="stylesheet">
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Beekeeper Studio Download | Beekeeper Studio</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Beekeeper Studio Download" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Free &amp; Open Source SQL editor and database manager for MySQL, Postgres, SQLite, SQL Server, and more. Available for Windows, Mac, and Linux." />
+<meta property="og:description" content="Free &amp; Open Source SQL editor and database manager for MySQL, Postgres, SQLite, SQL Server, and more. Available for Windows, Mac, and Linux." />
+<link rel="canonical" href="https://www.beekeeperstudio.io/download/" />
+<meta property="og:url" content="https://www.beekeeperstudio.io/download/" />
+<meta property="og:site_name" content="Beekeeper Studio" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Beekeeper Studio Download" />
+<meta name="twitter:site" content="@beekeeperdata" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Free &amp; Open Source SQL editor and database manager for MySQL, Postgres, SQLite, SQL Server, and more. Available for Windows, Mac, and Linux.","headline":"Beekeeper Studio Download","url":"https://www.beekeeperstudio.io/download/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+  <!-- Favicons -->
+  <link rel="apple-touch-icon" href="/apple-icon.png">
+  <link rel="shortcut icon" href="/favicon.ico">
+
+  <!-- Preload -->
+  <link rel="preload" href="/assets/css/main-9db524046fb503b1089bed2693d4fd749830ef7c651ece1e7f6a2f6aaf14143be8abcf8e556266712b8f010494f10b0b20a9fa2e5f264b50bf80b0a3ce96e66e.css" as="style">
+  <link rel="preload" href="/assets/js/main-8776c0ce14d75deb604a894ebe62c596c72065319f42b83f300c28de86494c5e984a0bcaf68c4f69c92bb0065b800a7bc5691be255def001464e789a45bf5f58.js" as="script">
+  
+
+    
+
+    <script src="https://cdn.usefathom.com/script.js" data-site="AKZVMGGS" defer></script>
+      <script type="text/javascript">
+        window.jekyllEnv = 'production'
+      </script>
+  
+  <link rel="stylesheet" type="text/css" href="/assets/css/main-9db524046fb503b1089bed2693d4fd749830ef7c651ece1e7f6a2f6aaf14143be8abcf8e556266712b8f010494f10b0b20a9fa2e5f264b50bf80b0a3ce96e66e.css" integrity="sha512-nbUkBG+1A7EIm+0mk9T9dJgw73xlHs4ef2ovaq8UFDvoq8+OVWJmcSuPAQSU8QsLIKn6Ll8mS1C/gLCjzpbmbg==" crossorigin="anonymous">
+  <script type="text/javascript" src="/assets/js/main-8776c0ce14d75deb604a894ebe62c596c72065319f42b83f300c28de86494c5e984a0bcaf68c4f69c92bb0065b800a7bc5691be255def001464e789a45bf5f58.js" integrity="sha512-h3bAzhTXXetgSolOvmLFlscgZTGfQrg/MAwo3oZJTF6YSgvK9oxPackrsAZbgAp7xWkb4lXe8AFGTniaRb9fWA==" crossorigin="anonymous"></script>
+
+</head>
+
+  <body class="page">
+    
+
+<header class="header row flex-middle">
+  <!-- <span class="btn btn-fab menu-btn hide-sm-up"><i class="material-icons">menu</i></span> -->
+  <figure>
+    <a class="logo" href="/" title="">
+      <img height="42" class="logo-img" src="/assets/img/logos/bk-logo-yellow-icon-c964a711bdf65aea45c437211468e08896ad7e5dd5fb4e7f9136e8e62868d5c4dcd9bfa63b94ca38914685d3da8d732ea0d73e39c161b01c6a9ee298de4ea374.svg" integrity="sha512-yWSnEb32WupFxDchFGjgiJatfl3V+05/kTbo5iho1cTc2b+mO5TKOJFGhdPajXMuoNc+OcFhsBxqnuKY3k6jdA==" crossorigin="anonymous">
+      <span class="logo-title hide-sm-down">Beekeeper <span>Studio</span></span>
+    </a>
+  </figure>
+  <span class="expand hide-sm-up"></span>
+  <span class="hide-sm-up">
+    <a href="#" data-target="menu-dropdown" class="dropdown-trigger btn btn-flat"><i class="material-icons">menu</i></a>
+    <ul id="menu-dropdown" class="dropdown-content">
+      <li><a href="/get">Download</a></li>
+      <li class="divider"></li>
+      
+        
+          
+          
+          
+          <li class="dropdown-header">Features</li>
+            
+              <li><a href="/features/easy-to-use" alt="Easy To Use Interface" target="">Easy To Use Interface</a></li>
+            
+              <li><a href="/features/sql-editor" alt="SQL Editor" target="">SQL Editor</a></li>
+            
+              <li><a href="/features/table-data" alt="Data Browser" target="">Data Browser</a></li>
+            
+              <li><a href="/features/alter-schemas" alt="Table Creator & Editor" target="">Table Creator & Editor</a></li>
+            
+              <li><a href="/features/workspace" alt="Online Sync & Collaboration" target="">Online Sync & Collaboration</a></li>
+            
+              <li><a href="/features" alt="More Features" target="">More Features</a></li>
+            
+            <li class="divider"></li>
+        
+      
+        
+          <li><a href="/releases" alt="Releases" target="">Releases</a></li>
+        
+      
+        
+          
+          
+          
+          <li class="dropdown-header">Resources</li>
+            
+              <li><a href="https://docs.beekeeperstudio.io/" alt="Documentation" target="_blank">Documentation</a></li>
+            
+              <li><a href="/blog" alt="Blog" target="">Blog</a></li>
+            
+              <li><a href="/slack" alt="Community Slack" target="_blank">Community Slack</a></li>
+            
+              <li><a href="/github" alt="GitHub" target="">GitHub</a></li>
+            
+            <li class="divider"></li>
+        
+      
+        
+          <li><a href="/about" alt="About" target="">About</a></li>
+        
+      
+        
+          <li><a href="/pricing" alt="Pricing" target="">Pricing</a></li>
+        
+      
+
+    </ul>
+  </span>
+
+  <nav class="hide-sm-down btn-group">
+
+    
+      
+        
+        
+        
+        
+        
+
+        <a class="btn btn-flat btn-icon navbar-dropdown-trigger nav-link " data-target="features-dropdown">Features<i class="material-icons right">expand_more</i></a>
+        <ul id="features-dropdown" class="dropdown-content navbar-dropdown-content">
+          
+          
+          
+          
+            <li>
+              <a href="/features/easy-to-use" class="" alt="Easy To Use Interface" target="">
+                <span>Easy To Use Interface</span>
+                <p class="link-description">Experience a truly modern SQL editor that really sweats the details.</p>
+              </a>
+            </li>
+          
+          
+          
+          
+            <li>
+              <a href="/features/sql-editor" class="" alt="SQL Editor" target="">
+                <span>SQL Editor</span>
+                <p class="link-description">Quickly iterate on a SQL query, view and visualize results, and share with a colleague.</p>
+              </a>
+            </li>
+          
+          
+          
+          
+            <li>
+              <a href="/features/table-data" class="" alt="Data Browser" target="">
+                <span>Data Browser</span>
+                <p class="link-description">A spreadsheet like interface to view, navigate, search, and edit your data.</p>
+              </a>
+            </li>
+          
+          
+          
+          
+            <li>
+              <a href="/features/alter-schemas" class="" alt="Table Creator & Editor" target="">
+                <span>Table Creator & Editor</span>
+                <p class="link-description">An easy to use no-code interface to create and alter tables, indexes, foreign keys, and more.</p>
+              </a>
+            </li>
+          
+          
+          
+          
+            <li>
+              <a href="/features/workspace" class="" alt="Online Sync & Collaboration" target="">
+                <span>Online Sync & Collaboration</span>
+                <p class="link-description">Work across multiple devices, or share your connections and queries with others.</p>
+              </a>
+            </li>
+          
+          
+          
+          
+            <li>
+              <a href="/features" class="" alt="More Features" target="">
+                <span>More Features</span>
+                <p class="link-description">See a list of everything Beekeeper Studio has to offer</p>
+              </a>
+            </li>
+          
+        </ul>
+      
+    
+      
+       
+
+        
+        <a class="btn btn-flat nav-link " href="/releases" alt="Releases" target="">Releases</a>
+      
+    
+      
+        
+        
+        
+        
+        
+
+        <a class="btn btn-flat btn-icon navbar-dropdown-trigger nav-link " data-target="resources-dropdown">Resources<i class="material-icons right">expand_more</i></a>
+        <ul id="resources-dropdown" class="dropdown-content navbar-dropdown-content">
+          
+          
+          
+          
+            <li>
+              <a href="https://docs.beekeeperstudio.io/" class="" alt="Documentation" target="_blank">
+                <span>Documentation</span>
+                <p class="link-description">Learn how to use Beekeeper Studio with bite-sized articles. Yum.</p>
+              </a>
+            </li>
+          
+          
+          
+          
+            <li>
+              <a href="/blog" class="" alt="Blog" target="">
+                <span>Blog</span>
+                <p class="link-description">Expand your database knowledge with our technical blog.</p>
+              </a>
+            </li>
+          
+          
+          
+          
+            <li>
+              <a href="/slack" class="" alt="Community Slack" target="_blank">
+                <span>Community Slack</span>
+                <p class="link-description">Chat with other BKS users and us too!</p>
+              </a>
+            </li>
+          
+          
+          
+          
+            <li>
+              <a href="/github" class="" alt="GitHub" target="">
+                <span>GitHub</span>
+                <p class="link-description">Much of Beekeeper Studio is open source.</p>
+              </a>
+            </li>
+          
+        </ul>
+      
+    
+      
+       
+
+        
+        <a class="btn btn-flat nav-link " href="/about" alt="About" target="">About</a>
+      
+    
+      
+       
+
+        
+        <a class="btn btn-flat nav-link " href="/pricing" alt="Pricing" target="">Pricing</a>
+      
+    
+  </nav>
+  <span class="hide-sm-down expand"></span>
+  <div class="btn-group hide-sm-down">
+    <a class="btn btn-primary btn-icon" href="/get"><i class="material-icons">save_alt</i> Download</a>
+  </div>
+</header>
+
+
+
+
+  <div class="hero">
+    <div class="hero-bg"></div>
+    <div class="center-wrap">
+      <article class="flex-col">
+        <h1 class="title">Beekeeper Studio Download</h1>
+        
+
+      </article>
+    </div>
+  </div>
+
+
+
+
+<section class="">
+  <div class="content-wrap ">
+    
+        <div class="center-wrap" data-controller="download">
+    <div class="" data-target="download.loading">
+      <h4>Please wait</h4>
+    </div>
+    <!-- IF THEY PROVIDE A TARGET -->
+    <div class="" data-target="download.yestarget" style="display: none;">
+      <div class="card-content">
+        <h4 class="card-title" data-target="download.details">Your download will begin automatically.</h4>
+        <p data-target="download.linkwrapper" style="display: none;">
+          Your <span data-target="download.edition">Beekeeper Studio</span> download should start automatically. If not, here is the
+          <a data-target="download.link" href="">manual download link</a>
+        </p>
+      </div>
+    </div>
+    <br />
+    <!-- <link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css"> -->
+
+<div class="sib-form card-flat padding">
+  <div id="sib-form-container" class="">
+    <div id="sib-container" class="">
+      <form id="sib-form" method="POST" action="https://c1144ec5.sibforms.com/serve/MUIEAMu_6WbZt03AcbKLcccN6_lN657v7Zjge1141Vqlq2SLZkFwzGSpBMx73uvdt0Yet3nZ_EE66Vojpe3tz7HMMFKm5lx28-2HHMYK_qFbH66boWDAUMnh9mdILbGNwKbEW5wU4ERM6xydG49P89LiG1b6mWiam26w-6p6g6qQuOBCSVq6_d5-Gh1lxJ2UdOXt5y-VkHu5C-I_">
+        <div class="sib-form-block">
+          <h3>🧚 Listen! Get notified of new releases</h3>
+          <p>Find out when we release big features, about every 2 months or so. We will never spam you with marketing junk.</p>
+        </div>
+        <div class="sib-input sib-form-block">
+          <div class="form__entry entry_block">
+            <div class="form__label-row ">
+              <div class="entry__field">
+                <input class="input" type="text" id="EMAIL" name="EMAIL" autocomplete="email" placeholder="Email Address" data-required="true" required />
+              </div>
+            </div>
+            <label class="entry__error entry__error--primary"></label>
+          </div>
+        </div>
+        <input type="hidden" name="SOURCE" value="website-download">
+        <div class="sib-form-block flex flex-end">
+          <button class="btn btn-primary btn-large sib-form-block__button sib-form-block__button-with-loader" form="sib-form" type="submit">
+            Subscribe
+          </button>
+        </div>
+        <input type="text" name="email_address_check" value="" class="input--hidden">
+        <input type="hidden" name="locale" value="en">
+        <input type="hidden" name="html_type" value="simple">
+      </form>
+    </div>
+  </div>
+</div>
+
+
+  </div>
+
+    
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="big-wrap flex-col">
+
+    <div class="flex-col flex-middle">
+      <a class="logo" href="/" title="Homepage">
+        <img height="42" src="/assets/img/logos/bk-logo-yellow-icon-c964a711bdf65aea45c437211468e08896ad7e5dd5fb4e7f9136e8e62868d5c4dcd9bfa63b94ca38914685d3da8d732ea0d73e39c161b01c6a9ee298de4ea374.svg" integrity="sha512-yWSnEb32WupFxDchFGjgiJatfl3V+05/kTbo5iho1cTc2b+mO5TKOJFGhdPajXMuoNc+OcFhsBxqnuKY3k6jdA==" crossorigin="anonymous">
+        <span class="footer-title">Beekeeper Studio</span>
+      </a>
+      <span class="copyright">&copy; 2024 Beekeeper Studio, Inc. Made in Texas 🇺🇸 by a Brit 🇬🇧. Hosting provided by <a href="https://netlify.com">Netlify</a></span>
+    </div>
+    <div class="row small-wrap footer-links">
+      <div class="col m4">
+        <ul >
+          <strong>Links</strong>
+          <li><a href="/about">About</a></li>
+          <li><a href="/legal/">Legal</a></li>
+          <li><a href="/pricing/#salesfaq" class="">Sales FAQ</a></li>
+          <li><a href="/legal/commercial-eula/" class="">EULA</a></li>
+          <li><a href="/github" class="">GitHub</a></li>
+        </ul>
+      </div>
+      <div class="col m4">
+        <ul class="tools">
+          <strong>Free Tools</strong>
+          <li><a href="/formatter">SQL Formatter</a></li>
+          <li><a href="/builder">Table Builder</a></li>
+          <li><a href="/examples">SQL Examples</a></li>
+        </ul>
+      </div>
+      <div class="col m4">
+        <ul>
+          <strong>Compare</strong>
+          
+            <li><a href="/alternatives/arctype">ArcType (RIP)</a></li>
+          
+            <li><a href="/alternatives/datagrip">DataGrip</a></li>
+          
+            <li><a href="/alternatives/dbeaver">DBeaver</a></li>
+          
+            <li><a href="/alternatives/dbvisualizer">DBVisualizer</a></li>
+          
+            <li><a href="/alternatives/postico">Postico</a></li>
+          
+            <li><a href="/alternatives/psql">PSQL</a></li>
+          
+            <li><a href="/alternatives/sequel-pro">Sequel Pro</a></li>
+          
+
+        </ul>
+      </div>
+    </div>
+    
+  </div>
+</footer>
+
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+  </body>
+</html>
